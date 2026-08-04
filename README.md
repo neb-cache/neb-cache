@@ -1,4 +1,4 @@
-<h1 align="center">Akbar Antapradja</h1>
+<h1 align="center">Aurelios Antaprades (Just Anonymous name lmaao)</h1>
 <h3 align="center">
 Systems Engineer • Infrastructure / Platform • ERP Integration
 </h3>
@@ -100,17 +100,18 @@ not just systems that look good in development.
 ## 🌐 Connect
 
 <p align="left">
-  <a href="mailto:akbarauliaramadhan@gmail.com">
+  <!-- <a href="mailto:akbarauliaramadhan@gmail.com"> -->
     <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  <!-- </a> -->
 
-  <a href="https://linkedin.com/in/bamz-antapradja">
+  <!--<a href="https://linkedin.com/in/bamz-antapradja">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+  <!-- </a> -->
 
-  <a href="https://instagram.com/_bamss___">
+ <!-- <a href="https://instagram.com/_bamss___">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+  -->
 </p>
 
 ---
