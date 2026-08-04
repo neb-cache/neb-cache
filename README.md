@@ -1,4 +1,4 @@
-<h1 align="center">Aurelios Antaprades (Just Anonymous name lmaao)</h1>
+<h1 align="center">AVRELIOS KOMNENOS (Just Anonymous name lmaao)</h1>
 <h3 align="center">
 Systems Engineer • Infrastructure / Platform • ERP Integration
 </h3>
